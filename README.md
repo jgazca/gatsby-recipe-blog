@@ -10,7 +10,8 @@
 
 ## Screenshots
 
-![Uploading recipe-blog.png…]()
+<img width="642" alt="recipe-blog" src="https://user-images.githubusercontent.com/59066805/183994177-dca87334-2926-4fbe-9976-230402d35576.png">
+
     
 
 <!-- AUTO-GENERATED-CONTENT:END -->
